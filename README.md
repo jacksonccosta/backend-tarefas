@@ -6,7 +6,7 @@ Esta é a API backend para o projeto Gerenciador de Tarefas, que faz parte do <b
 <ul style="list-style-type: none;">
     <li>
         <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-            Linguagem de programação <b>Phyton</b>
+            Linguagem de programação <b>Python</b>
     </li>
     <li>
         <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
@@ -48,3 +48,6 @@ Para iniciar o servidor da API, execute o seguinte comando:
 
 ```bash
 python app.py
+```
+<img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+ Caso queira testar os endpoints no Postman, aqui na pasta do projeto consta o arquivo <b>PUC-MVP1.postman_collection.json</b> com as Collections que podem ser importadas no Postman.
